@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "597351837432",
+    "firebase_url": "https://appsip-55dc1.firebaseio.com",
+    "project_id": "appsip-55dc1",
+    "storage_bucket": "appsip-55dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597351837432:android:75271e604c1d7471",
+        "android_client_info": {
+          "package_name": "com.example.bikalrokaya.appsip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597351837432-hkv3592sktlfi7bgjq5j24plg1v1c0ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bikalrokaya.appsip",
+            "certificate_hash": "77eed08e387607fb7a4928a8b5cdb26503fb69cf"
+          }
+        },
+        {
+          "client_id": "597351837432-ialkibsqt9kulmq5hshkjf13pgrkugm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTiR2ij5DkrE4RAG3XHWzFisyHXn3NkiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597351837432-ialkibsqt9kulmq5hshkjf13pgrkugm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
